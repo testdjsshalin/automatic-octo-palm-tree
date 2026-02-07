@@ -20,7 +20,7 @@
 ## 🚀 What I'm Building
 
 **Current Focus (2025-2026):**
-- 🎯 **AI GTM Engineer @ Vibe Engine** - Built GEO system reducing costs from $20K to $700/month (96% reduction)
+- 🎯 **AI GTM Engineer @ NDA** - Built GEO system reducing costs from $20K to $700/month (96% reduction)
 - 🏭 **ML Project Lead @ Automotive Manufacturing** - Selected 1 of 1000, Maruti Suzuki partnership
 - 💹 **Kaizen** - Stealth AI-powered equity trading platform (Bloomberg alternative for retail)
 - 🛒 **Kirana Mart** - Smart quick-commerce empowering local vendors
@@ -95,13 +95,13 @@
 #### 📝 [Attention Is All You Need](https://github.com/Sshalin123/Implementing-Attention-is-all-you-need-paper)
 Complete transformer from scratch with detailed documentation. 1,000+ developers learned from this implementation.
 
-#### 🎮 [Reinforcement Learning Book Implementation](https://github.com/Sshalin123/Reinforcement-learning-book-implementation)
+#### 🎮 [Reinforcement Learning Algo Implementation](https://github.com/Sshalin123/Reinforcement-learning-book-implementation)
 10+ RL algorithms from Sutton & Barto's textbook - Q-Learning, SARSA, DQN, PPO, DDPG, A3C.
 
 #### 🤝 [Trading Agent using RL](https://github.com/Sshalin123/Trading-Agent-using-Reinforcement-Learning)
 DQN/PPO trading agent achieving 24.5% annual returns with 12% max drawdown.
 
-#### 🧠 [SEAL - Self-Editing Approximate Learning](https://github.com/Sshalin123/SEAL)
+#### 🧠 [SEAL - Self-Editing Approximate Learning Implementation](https://github.com/Sshalin123/SEAL)
 Few-shot learning with 94.2% accuracy, 99% parameter reduction, state-of-the-art results.
 
 ---
@@ -175,15 +175,17 @@ Few-shot learning with 94.2% accuracy, 99% parameter reduction, state-of-the-art
 
 ### 💼 Professional Experience
 
-- **AI GTM Engineer @ Vibe Engine** (Aug 2025 - Present)
-  - 96% cost reduction ($20K → $700/mo) in GEO system
-  - Built 25-Agent Swarm for GTM automation
-  - Integrated Clay, Appify, Millionverifier, Apollo, Instantly for lead generation
+- **AI GTM Engineer @ NDA** (Aug 2025 - Present)
+  - Building 25-Agent Swarm for GTM automation
+  - Mastering GTM tools: Clay, Appify, Millionverifier, Apollo, Instantly for lead generation
+  - Automating lead generation and qualification processes
+  - Building scalable GTM infrastructure and learning CRM systems for lead management and tracking
 
-- **ML Project Lead @ Automotive Manufacturing** (Nov 2025 - Present)
+- **Project Lead @ Automotive Manufacturing PVT LTD** (Nov 2025 - Present)
   - Selected 1 of 1000 candidates
   - Maruti Suzuki tie-up for CRM + AI Calling + Inventory management
   - Multilingual AI calling with sentiment analysis
+  - Building scalable systems and AI-powered solutions in the domain of Sales, Support, Accounts, Dealership Management Software and Order Management Software
 
 - **LLM Research Intern @ RESPA-AI Labs** (Jun - Aug 2025)
   - Research on catastrophic forgetting in LLMs
@@ -191,7 +193,7 @@ Few-shot learning with 94.2% accuracy, 99% parameter reduction, state-of-the-art
 
 ### 🎓 Education & Training
 
-- **B.Tech AI/ML** - DJ Sanghvi College of Engineering (2023-2027) | CGPA: 8.2/10
+- **B.Tech AI/ML** - DJ Sanghvi College of Engineering (2023-2027) | CGPA: 8.4/10
 - **Robo-AI Training** - 45-day robotics & AI simulation (NVIDIA, AIC-GUSEC, Rotary)
 
 ### 🏅 Leadership
@@ -289,6 +291,6 @@ Few-shot learning with 94.2% accuracy, 99% parameter reduction, state-of-the-art
 
   ### 💫 "Building the future, one line of code at a time"
 
-  <sub>⭐ From [Sshalin123](https://github.com/Sshalin123) | Built with [Claude](https://claude.ai/claude-code) ⚡</sub>
+  <sub>⭐ From [Sshalin123](https://github.com/Sshalin123) ⚡</sub>
 
 </div>
